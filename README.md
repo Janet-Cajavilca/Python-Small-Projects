@@ -6,4 +6,4 @@ I recommend this course because it is highly practical, and in my opinion, the t
 
 Here is a list of the small projects:
 
-- Password Generator
+- [Password Generator](https://github.com/Janet-Cajavilca/Python_test/blob/main/PasswordGeneratorInPython.ipynb)
