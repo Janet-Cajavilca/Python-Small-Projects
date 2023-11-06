@@ -1,8 +1,8 @@
 # Python Small Projects
 
-In this repository, I have a collection of some projects I am working on while learning Python. Most of them are from the course **"100 Days of Code: The Complete Python Pro Bootcamp for 2023"** ([Udemy Course](https://www.udemy.com/course/100-days-of-code/)).
+In this repository, I will show some small projects I am working on while learning Python. Some of these exercises are from the course **"100 Days of Code: The Complete Python Pro Bootcamp for 2023"** ([Udemy Course](https://www.udemy.com/course/100-days-of-code/)).
 
-I recommend this course because it is highly practical, and in my opinion, the training is the best I've had so far.
+I recommend this course because it is highly practical, and the training is the best I've had.
 
 Here is a list of the small projects:
 
