@@ -9,3 +9,4 @@ Here is a list of the small projects:
 - [Password Generator](https://github.com/Janet-Cajavilca/Python_test/blob/main/PasswordGeneratorInPython.ipynb)
 - [Band Name Generator (easy)](https://github.com/Janet-Cajavilca/Python_Small_Projects/blob/main/BandNameGenerator.ipynb)
 - [Body Mass Calculation (easy)](https://github.com/Janet-Cajavilca/Python_Small_Projects/blob/main/BodyMassIndexCalculation.ipynb)
+- [Leap Year Test](https://github.com/Janet-Cajavilca/Python_Small_Projects/blob/main/LeapYearTest.ipynb)
